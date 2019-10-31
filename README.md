@@ -99,6 +99,10 @@ Video Resources about GSoC :computer:
 - [GSoC 2019 preparation Guide](https://www.youtube.com/watch?v=zT11Mhgqiek) - Check out this amazing video from Supragya 
 Raj who is also a GSoCer and has also made other amazing [videos related to GSoC](https://www.youtube.com/channel/UC9S1O55MD9kzL5wRDFL_o5A)
 
+Student Experiences :
+---
+-[Blogs by gsoc scholars](https://talk.openmrs.org/t/gsoc-2018-student-blogs/17900)
+
 Before winding up. It's always good to note that GSoC is just an opportunity to prove your Software development skill. There are 
 other opportunities as well in Open source world. Check out Tapasweni Pathak list of [Open source internships](https://github.com/tapaswenipathak/Open-Source-Internships)
 
